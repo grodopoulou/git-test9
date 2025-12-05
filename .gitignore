@@ -2,6 +2,7 @@
 out/
 .idea/
 GitTest9.iml
+git-test9-cloned.iml
 **/*.log
 
 
